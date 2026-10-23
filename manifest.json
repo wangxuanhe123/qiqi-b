@@ -1,0 +1,42 @@
+{
+  "name": "lunatide B - AI伴侣",
+  "short_name": "七七B",
+  "description": "你和七七的私人小窝",
+  "start_url": "/qiqi-b/",
+  "scope": "/qiqi-b/",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#fbf6f0",
+  "theme_color": "#fbf6f0",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "categories": ["social", "entertainment"],
+  "icons": [
+    {
+      "src": "/qiqi-b/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/qiqi-b/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/qiqi-b/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/qiqi-b/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
